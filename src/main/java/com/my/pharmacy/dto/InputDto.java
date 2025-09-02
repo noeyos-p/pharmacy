@@ -8,4 +8,5 @@ import lombok.ToString;
 @Setter
 @ToString
 public class InputDto {
+    private String address;
 }
